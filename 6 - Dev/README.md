@@ -1,12 +1,33 @@
-# Apprendre le langage rust 
+# Module 6 — Développement
 
-## Lien utile :
+Langages de programmation et pratique du code : Rust, Python, scripting.
 
-Docuement Rust en Francais :
--   [Rust book FR](https://jimskapt.github.io/rust-book-fr/)
--   [Avis et plus ](https://virtualabs.fr/)
+## Prérequis
 
-## Un repo est consacré à Rust :
+- Module 0 (Fondamentaux) — programmation, structures de données
 
-[Learn Rust](https://github.com/BlockchainSpot/LearnRust)
+## Sommaire
 
+### Cours
+
+| Fichier | Sujet |
+| --- | --- |
+| *À venir* | |
+
+### Labs
+
+| Dossier | Contenu |
+| --- | --- |
+| `labs/rust/1 - Les bases/` | Fondamentaux Rust (types, fonctions, vecteurs) |
+| `labs/rust/2 - Exercices/` | Exercices pratiques Rust |
+
+## Objectifs
+
+- Maîtriser les bases de Rust (ownership, borrowing, types)
+- Écrire du code système sûr et performant
+- Pratiquer via des exercices progressifs
+
+## Ressources
+
+- [Rust Book FR](https://jimskapt.github.io/rust-book-fr/)
+- [Learn Rust (repo)](https://github.com/BlockchainSpot/LearnRust)
